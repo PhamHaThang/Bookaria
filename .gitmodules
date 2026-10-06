@@ -1,0 +1,9 @@
+[submodule "bookaria-backend"]
+	path = bookaria-backend
+	url = https://github.com/PhamHaThang/bookaria-backend
+[submodule "bookaria-studio"]
+	path = bookaria-studio
+	url = https://github.com/PhamHaThang/bookaria-studio
+[submodule "bookaria-viewer"]
+	path = bookaria-viewer
+	url = https://github.com/PhamHaThang/bookaria-viewer
